@@ -1,5 +1,5 @@
 # The-Data-Science-Log
-A curated list of my applied AI and data science projects.
+A curated list of my data science projects.
 Each project lives in its own repository.
 
 ---
@@ -8,4 +8,4 @@ Each project lives in its own repository.
 
 | S No | Project Name | Domain | Repository | End-to-End |
 |-----:|--------------|--------|------------|------------|
-| 01 | Airbnb Price Prediction | Regression | [GitHub Repo](https://github.com/yourname/airbnb-price) | ✅ |
+| 01 | RFM-Driven-Segmentation-and-Predictive-Retention-Modeling | Customer Analytics | [GitHub Repo](https://github.com/Ahadke/RFM-Driven-Segmentation-and-Predictive-Retention-Modeling) | ✅ |
