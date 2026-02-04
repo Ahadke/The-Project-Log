@@ -1,4 +1,4 @@
-# Machine Learning & Decision Systems Portfolio
+# The Project Log
 A curated portfolio of my Data Science, Machine Learning, and Applied AI systems.  
 Each project is developed end-to-end and maintained in its own repository.
 
